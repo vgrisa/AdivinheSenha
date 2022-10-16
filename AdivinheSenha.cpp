@@ -226,6 +226,7 @@ int main()
 
 		case 3://tela sobre
 			system("cls");
+			cout << "<----- Sobre ----->\n" << endl;
 			cout << "Equipe de Deselvolvimento:" << endl;
 			cout << "Gabriel de Jesus" << endl;
 			cout << "Gregori Maciel" << endl;
@@ -241,6 +242,9 @@ int main()
 			system("cls");
 			cout << "<----- Obrigado por Jogar ----->" << endl;
 			return 0;
+		default:
+			system("cls");
+			break;
 		}
 	}
 }
