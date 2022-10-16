@@ -37,7 +37,7 @@ int main()
 
 			system("cls");
 			srand(time(NULL));
-			n4 = 0, n5 = 0;
+			n4 = 0, n5 = 0;//soh gera o n4 e/ou n5 se estiver de acordo com a dificuldade
 			for (i = 0; i < dificuldade + 2; i++) {//Repete para gerar o 5 numeros nao repetidos
 				switch (i)//Gera os numeros de acordo com a quantidade de repeticoes
 				{
