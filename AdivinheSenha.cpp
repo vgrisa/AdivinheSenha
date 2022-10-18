@@ -185,10 +185,6 @@ int main()
 			}
 			cout << "\n";
 
-			/*cout << "O numero era: " << n1 << n2 << n3;
-			n4 == 0 ? cout << "" : cout << n4;                 <--- eu faria assim
-			n5 == 0 ? cout << "" : cout << n5;*/
-
 			system("pause");
 			system("cls");
 			break;
